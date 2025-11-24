@@ -1,4 +1,15 @@
-body {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+.BlackPanther {
+    display: flex;
+}
+.AvengersEndgame {
+    display: flex;
+}
+.IronMan {
+    display: flex;
+}
+.ThorRagnarok {
+    display: flex;
+}
+.Spider-ManNoWayHome {
+    display: flex;
 }
