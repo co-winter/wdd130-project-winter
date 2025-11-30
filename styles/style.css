@@ -1,0 +1,9 @@
+body {
+    background-color: #FF331F;
+    margin: auto;
+    padding: 0;
+}
+
+main {
+    background-image: url("../images/hero.png");
+}
