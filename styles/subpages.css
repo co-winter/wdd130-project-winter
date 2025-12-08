@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    padding: 10px;
+}
+
+.poster-img {
+    height: 812px;
+    width: 544px;
+}
