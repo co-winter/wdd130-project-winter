@@ -3,4 +3,4 @@ This is my project for WDD130 for the marvel review website
 
 this repo is for my wdd130 class and its for the final project
 
-http://127.0.0.1:5500/index.html
+https://co-winter.github.io/wdd130-project-winter/
