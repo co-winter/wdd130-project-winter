@@ -32,7 +32,10 @@ header {
     font-weight: 600;
     position: relative;
     padding: 0 1rem;
+    transition: color 0.3s ease;
+    /* smooth fade */
 }
+
 
 /* Add the line after each link */
 .nav-links a:not(:last-child)::after {
@@ -42,7 +45,9 @@ header {
     color: white;
 }
 
-
+.nav-links a:hover {
+    color: black;
+}
 
 
 
@@ -73,8 +78,14 @@ main {
 
 
 
+#main-text-holder h3 {
+    font-weight: 500;
+    line-height: 2rem;
+}
 
-
+#main-text-holder h3 strong {
+    color: #FF331F;
+}
 
 footer {
     padding: 50px;
@@ -91,9 +102,6 @@ footer {
     filter: drop-shadow(0px 10px 20px rgba(0, 0, 0, 0.45));
 
 }
-
-
-footer h2 {}
 
 ul {
     list-style-type: "✦ ";
